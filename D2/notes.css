@@ -1,0 +1,49 @@
+/* styling language */
+
+/* selector {
+property1: value
+property2: value
+}
+*/
+/* class selectors
+.class-name{
+property: value
+}
+
+id selector
+#id {
+property: value
+}
+
+selector combinations
+.selector1.selector2 {
+property: value
+}
+.ancestor .child{
+property: value
+}
+
+<link rel="stylesheet" href="style.css">
+
+
+*/
+.blue {
+    color: rgba(255, 255, 0, .5);
+}
+
+h1 {
+    color:blue;
+}
+
+body {
+    color: red;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: red;
+}
