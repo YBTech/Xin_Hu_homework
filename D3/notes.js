@@ -7,12 +7,12 @@ if(true) {
 var varvariable = 'this is false';
 console.log(varvariable);
 
-if(true) {
-    let letvariable = 'this is true';
-    let letvariable = 'false';
-    console.log(letvariable);
-}
-console.log(letvariable);
+// if(true) {
+//     let letvariable = 'this is true';
+//     let letvariable = 'false';
+//     console.log(letvariable);
+// }
+// console.log(letvariable);
 
 const constvar = 1;
 constvar = 2;
